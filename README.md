@@ -8,3 +8,10 @@ Hər dəfə click olanda bir sonrakı 10 tələbə gəlməlidir. Əgər list bit
 </ol>
 <h4>Deadline : 02.03.2020</h4>
 <i>Uğurlar</i>
+
+
+<h4>Resuslar</h4>
+<ul>
+<li><a href="https://api.jquery.com/jQuery.ajax/" rel="nofollow">https://api.jquery.com/jQuery.ajax/</a></li>
+<li><a href="https://www.c-sharpcorner.com/blogs/using-ajax-in-asp-net-mvc" rel="nofollow">https://www.c-sharpcorner.com/blogs/using-ajax-in-asp-net-mvc</a></li>
+</ul>
